@@ -1,1 +1,1 @@
-# example-gcp-tf-modules
+# gcp-terraform-modules
